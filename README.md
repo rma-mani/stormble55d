@@ -1,4 +1,6 @@
-## Hi there 👋
+## about me
+Student of Mathematics at University of Basel, dabbling in CS and applications
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stormble55d&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **stormble55d/stormble55d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
